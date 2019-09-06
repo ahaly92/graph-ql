@@ -1,0 +1,21 @@
+{
+  "name": "graph-ql",
+  "version": "1.0.0",
+  "description": "graphQL Playground",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeetsies/graph-ql.git"
+  },
+  "author": "Ahmed Aly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeetsies/graph-ql/issues"
+  },
+  "homepage": "https://github.com/yeetsies/graph-ql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.4"
+  }
+}
