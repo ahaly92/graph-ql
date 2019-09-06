@@ -1,12 +1,12 @@
-# Messing around GraphQL
+# Messing Around With GraphQL
 
 # server.js
-  - quick hello world example
+  - a quick hello world example
   
 # server2.js 
   - a slightly more complex example with courses
 
-## Architecture
+## Architecture and Notes
  - Query 
    - read-only operation made against a GraphQL server
  - Mutation
